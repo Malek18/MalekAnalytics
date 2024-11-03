@@ -1,5 +1,5 @@
 
-# MoetezDevelops - Personal Portfolio
+# MalekAnalytics - Personal Portfolio
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences as a full-stack web developer, specializing in **ReactJS**, **Symfony**, and **SQL**.
 
