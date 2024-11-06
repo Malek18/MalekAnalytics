@@ -8,16 +8,16 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Moetez JLIDI </span>
-            from <span className="purple"> Marseille, France.</span>
+            Hi Everyone, I am <span className="purple">Malek Jaafar </span>
+            from <span className="purple"> Aix-en-provence, France.</span>
             <br />
-            I am a passionate full-stack web developer specialized in 
-            <span className="purple"> ReactJS</span>, 
-            <span className="purple"> Symfony</span>, and 
+            I am a passionate data analyst specialized in 
+            <span className="purple"> Python</span>, 
+            <span className="purple"> Machine learning</span>, and 
             <span className="purple"> SQL</span>.
             <br />
             With a strong background in computer engineering, I focus on 
-            data management, web development, and systemic analysis to create 
+            data management, data treatement, and data analystics to create 
             innovative solutions.
             <br />
             <br />
@@ -25,7 +25,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Music
             </li>
             <li className="about-activity">
               <ImPointRight /> Traveling
