@@ -13,7 +13,6 @@ import {
   DiScrum,
   DiLinux,
   DiGoogleAnalytics,
-  DiLinux,
   DiMysql,
 } from "react-icons/di";
 import {
