@@ -20,37 +20,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            My name is Moetez! I'm really passionate about front-end, back-end development and website making 👨‍💻 , I'm open to creating 
-              projects with new people so feel free to contact me.
+            Hi, I’m Malek! I’m passionate about data, data analystics and eager to collaborate on exciting new projects.
+            Feel free to reach out—I’d love to connect and work together!
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> React, Symfony, Java and Python... </b>
+                <b className="purple"> Python, SQL, Excel and Machine learning .. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new&nbsp;
+              My field of Interest lies in ;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"analysing data focusing in data processing and visualization </b>
+                
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I apply my skills with machine learning librairies like
+             <b className="purple">Sckit-learn</b> and have experience using 
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  SQL and python in data-driven projects
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -68,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/moetezjlidi"
+                  href="https://github.com/MalekJaafar"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +71,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/moetezjlidi"
+                  href="https:https://www.linkedin.com/in/malek-jaafar-a466b518b/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:moetez1@live.fr"
+                  href="mailto:malakjaafar71@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
