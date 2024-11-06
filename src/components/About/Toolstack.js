@@ -34,9 +34,7 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiNumpy />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMatplotlib />
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
