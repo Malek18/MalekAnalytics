@@ -10,6 +10,10 @@ import {
   SiIntellijidea,
   SiPycharm,
   SiGitlab,
+  SiScikitlearn,
+  SiNumpy,
+  SiOracle,
+  SiMicrosoftexcel,
 } from "react-icons/si";
 import {
  
@@ -22,10 +26,16 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAdobepremierepro />
+        <SiScikitlearn />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAdobephotoshop />
+        <SiMicrosoftexcel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNumpy />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMatplotlib />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -37,8 +47,9 @@ function Toolstack() {
         <SiLinux/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSony />
+        <SiOracle/>
       </Col>
+    
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>

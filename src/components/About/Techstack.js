@@ -15,7 +15,9 @@ import {
   DiMysql,DiNpm,
   DiHtml5,DiCss3,
   DiScrum,
-  DiAngularSimple
+  DiAngularSimple,
+  DiLinux,
+  DiGoogleAnalytics
 } from "react-icons/di";
 import {
   SiRedis,
@@ -30,7 +32,7 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <CgC />
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
@@ -38,7 +40,7 @@ function Techstack() {
       </Col>
       
       <Col xs={4} md={2} className="tech-icons">
-        <DiAngularSimple/>
+        <DiLinux/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
@@ -51,23 +53,9 @@ function Techstack() {
       </Col>
     
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiGoogleAnalytics />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNpm />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPhp />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiSymfony />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiMysql />
       </Col>
