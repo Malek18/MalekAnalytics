@@ -13,8 +13,7 @@ import {
   DiScrum,
   DiLinux,
   DiGoogleAnalytics,
-  DiMysql,
-} from "react-icons/di";
+ } from "react-icons/di";
 import {
   SiPostgresql,
 } from "react-icons/si";
