@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MalekAnalytics/static/css/main.3ca19f12.css",
-    "main.js": "/MalekAnalytics/static/js/main.dc3d249a.js",
+    "main.js": "/MalekAnalytics/static/js/main.84920a69.js",
     "static/js/453.ace21015.chunk.js": "/MalekAnalytics/static/js/453.ace21015.chunk.js",
     "static/media/valorant.jpg": "/MalekAnalytics/static/media/valorant.a2db3fd179b8b844e9cb.jpg",
     "static/media/nationalgeographique.jpg": "/MalekAnalytics/static/media/nationalgeographique.2778fa303ecfbdb581d7.jpg",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/MalekAnalytics/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/MalekAnalytics/index.html",
     "main.3ca19f12.css.map": "/MalekAnalytics/static/css/main.3ca19f12.css.map",
-    "main.dc3d249a.js.map": "/MalekAnalytics/static/js/main.dc3d249a.js.map",
+    "main.84920a69.js.map": "/MalekAnalytics/static/js/main.84920a69.js.map",
     "453.ace21015.chunk.js.map": "/MalekAnalytics/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca19f12.css",
-    "static/js/main.dc3d249a.js"
+    "static/js/main.84920a69.js"
   ]
 }
