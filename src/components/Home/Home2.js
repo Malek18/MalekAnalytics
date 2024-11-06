@@ -31,7 +31,7 @@ function Home2() {
               <br />
               My field of Interest lies in ;
               <i>
-                <b className="purple"analysing data focusing in data processing and visualization </b>
+                <b className="purple">analysing data focusing in data processing and visualization </b>
                 
               </i>
               <br />
@@ -43,7 +43,7 @@ function Home2() {
                   {" "}
                   SQL and python in data-driven projects
                 </b>
-             
+             </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
